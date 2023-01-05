@@ -1,4 +1,4 @@
 - 👋 Eu sou Thiago e pode me encontrar no github pelo perfil @txsilva
 - 👀 Tenho interesse em linguagens de programação e desenvolvimento de software
-- 🌱 Atualmente trabalho com projetos web e tenho interesse em scripts de geolocalização, linguagens interpretadas e processadas
+- 🌱 Atualmente trabalho com projetos web e tenho interesse em scripts para ecommerce, portais de notícias, linguagens interpretadas (python e jsavascript) e processadas
 - 📫 Para falar comigo use o email txsilva@gmail.com

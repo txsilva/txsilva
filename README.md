@@ -1,5 +1,4 @@
 - 👋 Eu sou Thiago e pode me encontrar no github pelo perfil @txsilva
 - 👀 Tenho interesse em linguagens de programação e desenvolvimento de software
 - 🌱 Atualmente trabalho com projetos web e tenho interesse em scripts de geolocalização, linguagens interpretadas e processadas
-- 💞️ Contribuo no projeto Bus Plays de mobilidade urbana e transporte público
 - 📫 Para falar comigo use o email txsilva@gmail.com
